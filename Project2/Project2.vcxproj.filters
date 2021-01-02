@@ -15,19 +15,19 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="문제 01-2.cpp">
+    <ClCompile Include="..\Project1\UsingDcl1.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="문제 01-1-1.cpp">
+    <ClCompile Include="..\Project1\UsingDcl2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="문제 01-1-2.cpp">
+    <ClCompile Include="..\Project1\Referen.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="문제 01-1-4.cpp">
+    <ClCompile Include="..\Project1\DataTypeBool.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="문제 01-3-1.cpp">
+    <ClCompile Include="..\Project1\InlineFunc.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
