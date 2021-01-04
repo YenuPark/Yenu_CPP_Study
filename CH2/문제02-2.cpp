@@ -9,6 +9,8 @@ int main(void) {
 	const int* (&ref) = ptr;
 
 	cout << *ptr << endl;
+	cout << *ref << endl;
 
+	return 0;
 
 }
