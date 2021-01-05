@@ -144,6 +144,7 @@
     <ClCompile Include="Initializing structs(Assign to structs).cpp" />
     <ClCompile Include="Struct Calculate .cpp" />
     <ClCompile Include="Structs and Func.cpp" />
+    <ClCompile Include="Structs and Func2.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
