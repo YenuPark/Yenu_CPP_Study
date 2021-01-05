@@ -27,5 +27,8 @@
     <ClCompile Include="Initializing structs(Assign to structs).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Structs and Func.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
