@@ -24,5 +24,8 @@
     <ClCompile Include="Struct Calculate .cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Initializing structs(Assign to structs).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

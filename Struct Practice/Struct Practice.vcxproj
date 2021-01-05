@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="Accessing struct members.cpp" />
     <ClCompile Include="DeclaringANDDefining.cpp" />
+    <ClCompile Include="Initializing structs(Assign to structs).cpp" />
     <ClCompile Include="Struct Calculate .cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
