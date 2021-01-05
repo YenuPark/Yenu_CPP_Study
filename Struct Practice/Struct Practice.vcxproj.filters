@@ -36,5 +36,8 @@
     <ClCompile Include="Nested structs.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Struct size and data Structure alignment.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
