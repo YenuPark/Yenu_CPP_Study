@@ -18,5 +18,8 @@
     <ClCompile Include="DeclaringANDDefining.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Accessing struct members.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
